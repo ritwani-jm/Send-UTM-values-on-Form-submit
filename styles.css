@@ -1,0 +1,27 @@
+.details-form {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.details-form div, input[type=submit] { 
+    margin-top: 10px;
+}
+
+.details-form label {
+    margin-right: 10px; 
+
+}
+
+.details-form input[type=submit] {
+    width: 50%;
+    height: 40px; 
+    margin-top: 15px;
+}
+
+.details-form input[type=text] {
+    width: 400px;
+    height: 35px; 
+} 
